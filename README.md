@@ -3,6 +3,7 @@ Resume _Classification using NLP
 
 
 Problem Statements:
+
 Today the major problem being faced across the industry is how to acquire the right talent, using minimal resources  over the internet and in minimal time. As described there are  three major challenges that are required to   be overcome, to bring efficiencies to the complete process.
 
 •-> Separating the right candidates from the pack
@@ -26,9 +27,15 @@ The document classification solution should significantly reduce the manual huma
 Project Done BY
 
 Team Members
+
 Mr. SIDDHARTHA SARKAR
+
 Mr. Dr. NANDKUMAR PRABHAKAR KULKARNI
+
 Mr. PRADHYUMNA NARENDRA JAKATE
+
 Mr. KAILASH VITTHAL SHIRKE
+
 Mr. ACHINTYA SANJAY ROKADE
+
 Mr. GURUJALA SAI SHARAN GOUD
