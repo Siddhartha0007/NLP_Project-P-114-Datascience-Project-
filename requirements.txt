@@ -541,3 +541,4 @@ zipp @ file:///opt/conda/conda-bld/zipp_1641824620731/work
 zope.event==4.5.0
 zope.interface @ file:///C:/ci/zope.interface_1625036252485/work
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.3.0/en_core_web_sm-3.3.0.tar.gz#egg=en_core_web_sm
+protobuf~=3.19.0
