@@ -9,7 +9,7 @@ PyPDF2==1.28.1
 python_docx==0.8.11
 scikit_image==0.19.2
 scikit_learn==1.1.1
-spacy==3.2.3
+spacy
 streamlit==1.9.0
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.3.0/en_core_web_sm-3.3.0.tar.gz#egg=en_core_web_sm
 pdfplumber==0.6.2
