@@ -8,4 +8,5 @@ Created on Tue May 24 17:34:34 2022
 import nltk
 nltk.download('wordnet')
 nltk.download('punkt')
-#nltk.download('all-corpora')
+nltk.download('omw-1.4')
+nltk.download('all-corpora')
